@@ -1,9 +1,24 @@
 ### Hi there 👋
 
+- I’m web apps developer and IT guy. 
+
+
+- 📫 You can find more information about me (and contact me) here:
+  - https://jakubzak.cz
+  - https://linkedin.com/in/zakjakub/
+  - https://gitlab.com/zakjakub
+
+
+- 🌱 I focus primarily on:
+  - **PHP**, **Symfony**, API Platform, Doctrine
+  - **TypeScript**, **Angular**, Ionic
+
+
 - 🔭 I’m currently working on
   - OSWIS (One Simple Web IS)
   - Seznamovák UP
   - POSPOL
+  - some projects for Fort Science (Palacky University Olomouc)
   - some proprietary projects...
 
 
