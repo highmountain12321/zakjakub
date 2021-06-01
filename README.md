@@ -3,7 +3,7 @@
 - I’m web apps developer and IT guy. 
 
 
-- 📫 You can find more information about me (and contact me) here:
+- 📫 You can find more information about me (and contact me) there:
   - https://jakubzak.cz
   - https://linkedin.com/in/zakjakub/
   - https://gitlab.com/zakjakub
