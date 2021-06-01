@@ -16,8 +16,8 @@
 
 - 🔭 I’m currently working on
   - OSWIS (One Simple Web IS)
-  - Seznamovák UP
-  - POSPOL
+  - Seznamovák UP IS and website
+  - POSPOL IS and website
   - some projects for Fort Science (Palacky University Olomouc)
   - some proprietary projects...
 
