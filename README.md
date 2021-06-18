@@ -19,6 +19,7 @@
     - proprietary web IS 
     - development team is part of [Sensio s.r.o.](https://www.sensio.cz/)
   - [**OSWIS** (One Simple Web IS)](https://github.com/oswis-org)
+    - modular web based IS
   - [**Seznamovák UP** IS and website](https://github.com/seznamovak-up)
     - web IS for event management
     - based on [**OSWIS**](https://github.com/oswis-org)
