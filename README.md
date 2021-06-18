@@ -15,11 +15,11 @@
 
 
 - 🔭 I’m currently working on
-  - OSWIS (One Simple Web IS)
-  - Seznamovák UP IS and website
-  - POSPOL IS and website
+  - [OSWIS (One Simple Web IS)](https://github.com/oswis-org)
+  - [Seznamovák UP IS and website](https://github.com/seznamovak-up)
+  - [POSPOL IS and website](https://github.com/pospol)
   - some projects for Fort Science (Palacky University Olomouc)
-  - some proprietary projects...
+  - [some proprietary projects...](https://github.com/jakubzak-cz)
 
 
 <!--
