@@ -4,9 +4,9 @@
 
 
 - 📫 You can find more information about me (and contact me) there:
-  - https://jakubzak.cz
-  - https://linkedin.com/in/zakjakub/
-  - https://gitlab.com/zakjakub
+  - **https://jakubzak.cz**
+  - **https://linkedin.com/in/zakjakub/**
+  - **https://gitlab.com/zakjakub**
 
 
 - 🌱 I focus primarily on:
