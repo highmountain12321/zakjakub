@@ -17,7 +17,9 @@
 - 🔭 I’m currently working on
   - [**OSWIS** (One Simple Web IS)](https://github.com/oswis-org)
   - [**Seznamovák UP** IS and website](https://github.com/seznamovak-up)
+    - based on [**OSWIS**](https://github.com/oswis-org)
   - [**POSPOL** IS and website](https://github.com/pospol)
+    - based on [**OSWIS**](https://github.com/oswis-org)
   - some projects for **Fort Science** (Palacky University Olomouc)
   - [some proprietary projects...](https://github.com/jakubzak-cz)
 
