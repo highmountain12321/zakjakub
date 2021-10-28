@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m web full-stack apps developer and IT guy. 
+- I’m full-stack web apps developer and IT guy. 
 
 
 - 📫 You can find more information about me (and contact me) there:
