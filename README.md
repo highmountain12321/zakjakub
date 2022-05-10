@@ -9,7 +9,7 @@
   - **https://gitlab.com/zakjakub**
 
 
-- 🌱 I focus primarily on:
+- 🌱 I'm focusing primarily on:
   - **PHP**, **Symfony**, API Platform, Doctrine
   - **TypeScript**, **Angular**, Ionic
 
@@ -18,15 +18,20 @@
   - **MRI Pro**
     - proprietary web IS 
     - development team is part of [Sensio s.r.o.](https://www.sensio.cz/)
+    - Symfony, API Platform, Angular, Ionic
   - [**OSWIS** (One Simple Web IS)](https://github.com/oswis-org)
     - modular web based IS
+    - Symfony, API Platform, Angular, Ionic
   - [**Seznamovák UP** IS and website](https://github.com/seznamovak-up)
     - web IS for event management
     - based on [**OSWIS**](https://github.com/oswis-org)
+    - Symfony, API Platform, Angular, Ionic
   - [**POSPOL** IS and website](https://github.com/pospol)
     - web IS for students organization management
     - based on [**OSWIS**](https://github.com/oswis-org)
+    - Symfony, API Platform, Angular, Ionic...
   - some apps for **Fort Science** and other departments of **Palacky University Olomouc**
+    - Angular, Electron, React, Python, microPython, JavaScript, Symfony, API Platform...
   - [some proprietary projects...](https://github.com/jakubzak-cz)
     - websites, information systems... 
 
